@@ -1,0 +1,1945 @@
+{
+  "month": "2026-10",
+  "summary": {
+    "new_customers_count": 8,
+    "transactions_count": 184,
+    "transactions_by_type": {
+      "earn": 155,
+      "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)": 29
+    },
+    "total_stamps_earned": 252,
+    "total_stamps_redeemed": 203
+  },
+  "customers": [
+    {
+      "id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "loyalty_id": "ALD-174443",
+      "full_name": "Nadir Iskenderov",
+      "phone": "0515842222",
+      "password_hash": null,
+      "stamps_count": 8,
+      "created_at": "2026-10-09T05:18:50.172308+00:00",
+      "tier": "Bronze",
+      "lifetime_stamps": 25
+    },
+    {
+      "id": "fe1fb097-b11b-4e86-bf5b-14dd9b3c103d",
+      "loyalty_id": "ALD-883539",
+      "full_name": "Faiq Aliyev",
+      "phone": "0502118706",
+      "password_hash": null,
+      "stamps_count": 0,
+      "created_at": "2026-10-13T08:05:29.164121+00:00",
+      "tier": "Silver",
+      "lifetime_stamps": 0
+    },
+    {
+      "id": "4f5db04c-e89e-41b8-b908-5b37c465dc59",
+      "loyalty_id": "ALD-946707",
+      "full_name": "Guseyn Askerov",
+      "phone": "0556338233",
+      "password_hash": null,
+      "stamps_count": 2,
+      "created_at": "2026-10-13T08:06:33.070502+00:00",
+      "tier": "Silver",
+      "lifetime_stamps": 2
+    },
+    {
+      "id": "562c1221-b616-4aa2-a52f-5a164a6a54c6",
+      "loyalty_id": "ALD-542846",
+      "full_name": "Ulker Mammadova",
+      "phone": "0105042222",
+      "password_hash": null,
+      "stamps_count": 2,
+      "created_at": "2026-10-15T14:39:38.713643+00:00",
+      "tier": "Bronze",
+      "lifetime_stamps": 2
+    },
+    {
+      "id": "9c2d97a4-0f92-462e-aaf6-250ccc61a121",
+      "loyalty_id": "ALD-355638",
+      "full_name": "Maryam Zeynalova",
+      "phone": "0556832823",
+      "password_hash": null,
+      "stamps_count": 1,
+      "created_at": "2026-10-19T09:13:36.86744+00:00",
+      "tier": "Silver",
+      "lifetime_stamps": 1
+    },
+    {
+      "id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "loyalty_id": "ALD-673906",
+      "full_name": "Kanan Bashir",
+      "phone": "0514200878",
+      "password_hash": null,
+      "stamps_count": 1,
+      "created_at": "2026-10-20T16:08:20.751744+00:00",
+      "tier": "Bronze",
+      "lifetime_stamps": 22
+    },
+    {
+      "id": "3dd093a6-2671-419c-81aa-0d054aa14855",
+      "loyalty_id": "ALD-680473",
+      "full_name": "Shahin Jafarov",
+      "phone": "0555040404",
+      "password_hash": null,
+      "stamps_count": 1,
+      "created_at": "2026-10-29T14:41:20.356594+00:00",
+      "tier": "Bronze",
+      "lifetime_stamps": 1
+    },
+    {
+      "id": "3e36adcc-f1a2-4993-89fd-a1a08d3a33cb",
+      "loyalty_id": "ALI-54F62703",
+      "full_name": "Vilayət Musayev",
+      "phone": "0507080877",
+      "password_hash": "$2y$10$y6WJ8kRUML5uv/j.QkLVa.RgFcHlN30MRJIfnqilXxhm7Es.kdvaG",
+      "stamps_count": 0,
+      "created_at": "2026-10-29T21:05:31.556322+00:00",
+      "tier": "Bronze",
+      "lifetime_stamps": 0
+    }
+  ],
+  "transactions": [
+    {
+      "id": "913cc7b4-9f6e-40ba-8436-70f8005fc785",
+      "customer_id": "83715abb-0463-40fa-b5b8-bda925500c5e",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-01T07:27:55.905025+00:00",
+      "customer_name": "Darya Vasilchenko",
+      "customer_phone": "0706699753",
+      "customer_loyalty_id": "ALD-286149"
+    },
+    {
+      "id": "07675608-e179-48dc-9aba-026c3e0dd3a8",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-01T07:43:33.606566+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "ca811ec2-361d-47fc-b767-fe362607562d",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-01T08:30:08.574145+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "e3e89c94-0f29-474d-a9f1-42caf1046bce",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-01T08:45:40.562745+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "f5baec76-9f3e-426d-9e4c-91a6a8655a58",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-01T16:41:12.410174+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "4253f7b3-441c-4ee3-8712-e1fffdfb490f",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-02T08:04:45.355564+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "846fa860-edfc-4afe-8d21-83ea87f39a61",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-02T08:04:45.685831+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "d263ba4a-8851-42b1-a96f-fda570112d29",
+      "customer_id": "eda9f482-fd96-452d-b91c-8db4c613e1bf",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-03T11:05:04.135852+00:00",
+      "customer_name": "Ayan Mammadova",
+      "customer_phone": "0773121700",
+      "customer_loyalty_id": "ALD-890370"
+    },
+    {
+      "id": "3dc8d363-d1fd-464a-ba68-2db038e24b4d",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-05T06:26:58.260392+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "aa777065-20b2-4a57-a6a1-f2f7dce49fc5",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-05T07:54:04.405373+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "093b172d-7f3d-488e-968e-318c8bf9862c",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-05T08:37:27.899455+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "64f50e71-6494-4f97-97a6-6c44554c6123",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-05T09:04:15.036663+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "c7dd166f-9f65-402d-8a45-07c5a5bb6e90",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-05T09:05:04.139088+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "4bc985a4-40db-48fc-bec8-533772eb353c",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-05T09:20:03.652012+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "be2786fc-e47e-46a0-a836-4102d82ac5c3",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-05T14:23:41.883845+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "2f9a1523-19a8-43d8-96bf-a338453997dc",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-06T13:13:24.424618+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "0d1826e1-a182-4fe6-b666-0ee4b2c8e1c5",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-06T13:35:47.357997+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "4486391b-3eee-44e5-8617-a81dfdc08d0f",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-06T14:24:07.149208+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "a0f2a91f-ee46-480c-ab74-66162bc509fc",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-06T17:07:43.096515+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "187d4eb1-34f1-4f84-b0c9-35a5711232f0",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-06T17:09:45.778338+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "750344d4-977a-4b5a-af02-d73280b39a3b",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-06T17:16:07.201934+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "224ee94f-7cf3-40c4-9049-7cb87e11a547",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-07T08:22:15.108232+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "176488ea-cb5d-4d39-a095-d6f81f0c1dcf",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-07T08:36:58.903081+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "0953b82d-d8f9-4ee9-962e-49a849ce62d0",
+      "customer_id": "eda9f482-fd96-452d-b91c-8db4c613e1bf",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-07T10:40:26.66272+00:00",
+      "customer_name": "Ayan Mammadova",
+      "customer_phone": "0773121700",
+      "customer_loyalty_id": "ALD-890370"
+    },
+    {
+      "id": "77cb6751-11d4-41e8-875d-930ca25eadc6",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-07T13:05:19.050513+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "d7ae9de5-5503-4d67-a78b-1da4b6c5f4eb",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-07T16:04:17.586984+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "eda43b47-9db5-4c72-ac40-5955c48eb45a",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-07T16:31:00.467852+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "56cc6420-4e14-4217-a2d3-6ee36eed9f4b",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-08T07:47:48.468397+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "85fc4b24-6403-4a47-b476-d32effc37b5a",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-08T07:52:53.519713+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "aec98c3e-0974-4f10-ad18-30a1094f6fdd",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-08T14:16:48.767265+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "c760e1de-2811-4253-b5e2-937961493426",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-08T18:07:27.484577+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "83a46e81-8bbe-408b-9e5f-a3d3d9fb4c29",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-08T18:09:43.656752+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "54924163-b889-4239-8d09-7acdf5171698",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-09T06:41:54.002202+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "b29228af-d2ea-48e1-9db1-c5b4d3dc4c57",
+      "customer_id": "a2df01b0-378b-4e34-a369-91ecfa8520d5",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-10T08:13:37.94943+00:00",
+      "customer_name": "Nargiz Mammadova",
+      "customer_phone": "502125101",
+      "customer_loyalty_id": "ALD-729967"
+    },
+    {
+      "id": "80ed5873-65e2-47b6-a0a7-0bccdce76fb1",
+      "customer_id": "a2df01b0-378b-4e34-a369-91ecfa8520d5",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-10T09:29:15.737781+00:00",
+      "customer_name": "Nargiz Mammadova",
+      "customer_phone": "502125101",
+      "customer_loyalty_id": "ALD-729967"
+    },
+    {
+      "id": "c8faa99c-7cd9-412c-8170-2aaae9d66f59",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-10T10:01:07.771288+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "0c422b51-a376-4ac1-8726-44020c62eed9",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-10T10:01:08.15935+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "b37daf76-7c12-4009-8faa-9f4f418c4de3",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-10T10:02:46.327388+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "fe0329f0-91fb-4250-aa2a-0a947f7530be",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-10T12:34:46.889467+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "5914cc4c-fb1e-404d-b205-2a7e2a59e48d",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-10T13:07:41.565876+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "3e9c9261-fe37-478d-8ae8-c12fdba6b273",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-10T13:46:14.7525+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "21d3bd38-8506-4dc0-9062-98a476283628",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-10T15:42:45.312661+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "fc6a99c2-f23e-4076-8759-8ab5c176d00f",
+      "customer_id": "83715abb-0463-40fa-b5b8-bda925500c5e",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-10T15:43:47.643974+00:00",
+      "customer_name": "Darya Vasilchenko",
+      "customer_phone": "0706699753",
+      "customer_loyalty_id": "ALD-286149"
+    },
+    {
+      "id": "153b1ef0-a81a-499f-a362-8309f85c6ee7",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-11T13:52:58.555072+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "08478536-77eb-4b98-a52d-f81ce18058eb",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T08:56:34.370234+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "10ad0ff9-13f3-4668-aa05-2b3b3517d9e4",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T09:43:08.09354+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "378162dc-5038-4355-887d-109cf7cdbc23",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T12:28:49.661822+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "273e5851-8039-459a-9feb-18e42257532a",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-12T14:11:48.820767+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "9d567ea9-ae4b-4ae9-8cf0-17bf4c8486e3",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T14:11:49.670212+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "13ea8097-7539-47fe-88ce-eadad34c496c",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 5,
+      "created_at": "2026-10-12T14:15:03.964495+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "99e040c1-83b8-4d94-8274-e0ef4344044d",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T14:16:46.804998+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "b13dcef3-7eb2-4e21-91e3-88bc72d87416",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-12T14:58:20.785492+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "18796550-6892-4f6b-8a30-7b376f841bd5",
+      "customer_id": "4f5db04c-e89e-41b8-b908-5b37c465dc59",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-13T08:42:57.221462+00:00",
+      "customer_name": "Guseyn Askerov",
+      "customer_phone": "0556338233",
+      "customer_loyalty_id": "ALD-946707"
+    },
+    {
+      "id": "cb4ebfe2-693d-4af4-aed1-5980356e12f8",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-13T10:14:53.842228+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "ff6ee648-151a-432f-9015-3c53bdaee4bc",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-13T10:14:54.168591+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "bfbef2fc-5373-4853-aea4-dd56c6440798",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-13T10:19:08.221124+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "dc6921e5-8feb-48cd-81c4-785cf6e58966",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-13T11:13:08.412169+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "e8ba9cf9-663f-4e01-8d68-c1372ebaf03f",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-13T11:39:13.267333+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "b137a7d7-dd9a-4ff5-bbdb-1304e32c3b47",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-13T13:43:10.53835+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "e8697188-1036-4def-8fc4-9cd3420c7543",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-13T14:09:34.067952+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "21260a0b-d234-4ab6-9d48-c4151afca029",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-14T07:41:33.680713+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "1ce1fc58-c82c-4101-a37d-a487b615d14f",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-14T10:02:18.603577+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "29464758-3da9-4e1c-9a07-25c600db7c81",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-14T10:32:11.259052+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "b11646bb-9df2-41b5-818a-fd81a62e8ff6",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-14T10:57:28.266154+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "aefa0a0a-8952-494b-b948-655607017957",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-14T12:51:08.815035+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "5dfaa104-55b4-4a5b-bc7b-1b7aadb01f5a",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-14T12:52:36.399387+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "5682c3e6-f3ad-4599-8ea7-5ca60dde4662",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-14T15:02:51.328226+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "ceebc178-5b51-4a1a-873c-cb27d5ec5e13",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-14T17:58:39.833159+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "bc0e6b95-c7ee-4617-a5f4-f061f6c3034c",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-14T17:58:41.70346+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "928cb513-6f81-4744-ad81-321fddb39150",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-14T17:59:58.600012+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "fa0e53ed-bd1f-4e00-8f37-84cc11fe6b0b",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-15T07:13:34.80439+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "fdb38beb-2122-4733-bdfd-230a54dcc2c6",
+      "customer_id": "83715abb-0463-40fa-b5b8-bda925500c5e",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-15T08:21:55.558767+00:00",
+      "customer_name": "Darya Vasilchenko",
+      "customer_phone": "0706699753",
+      "customer_loyalty_id": "ALD-286149"
+    },
+    {
+      "id": "5802cfdc-0074-483a-a3dc-19a7ce205383",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-15T14:38:50.415123+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "5d23dddf-1ac7-4a48-b404-5aedf0a41751",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-15T17:50:44.26857+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "aea2dc52-f06f-4fd0-b73c-90d6a277824c",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-16T09:00:28.42905+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "f731d50f-e65f-406b-a42b-e5c47682125c",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-16T09:03:49.286922+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "d509531c-b0ae-404c-9280-b71614a3a3d8",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-16T09:07:50.718636+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "89def7fb-0510-40a1-bba1-299d1a0b2174",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-16T09:35:27.292702+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "3f2671ac-3222-43a4-aec8-9579e90a3c6d",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-16T10:41:06.897064+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "094495f0-ccc8-4678-b434-4851acc9a2ab",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-16T16:48:24.808757+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "65a4afd2-3a9a-483b-910f-be6777064045",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-16T16:48:25.152672+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "6f369b6e-0bf2-476b-8f92-75c294daeccd",
+      "customer_id": "a2df01b0-378b-4e34-a369-91ecfa8520d5",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-17T08:42:15.918035+00:00",
+      "customer_name": "Nargiz Mammadova",
+      "customer_phone": "502125101",
+      "customer_loyalty_id": "ALD-729967"
+    },
+    {
+      "id": "5dd6ddc5-75f2-4cf0-a6c0-15b3e568b1d5",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-17T08:45:18.901951+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "6a2f0174-2e00-4e16-b8ef-8a37332524b3",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-17T12:24:22.650039+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "0611ed6e-e61c-43e1-ad36-4ffdc0f3d774",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-17T16:01:33.272489+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "201c6bd7-b71b-4f8d-9422-9980787b4b87",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T09:19:55.460582+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "d114319f-f6a9-4581-a9ed-9de6c4490a64",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T09:20:46.938659+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "cfe93273-a585-4cfc-83b4-e34565ea37b8",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T09:24:42.722596+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "e0e98a00-2814-4637-83c8-d9a6b529ec10",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T09:25:38.677704+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "aaef3dc4-64e2-4592-9600-3669a215446e",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-18T11:15:30.016943+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "c9f8bf72-d3c8-429f-9b51-ceb509c44cb5",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T12:09:00.683065+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "bd8fa265-0c74-416e-b65a-0598b91f50c6",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-18T13:19:43.316539+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "1edf42fe-0d76-4f44-8cf2-794f663756c5",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-18T13:19:43.609085+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "832ef56a-29d1-438f-a001-fab4e0054933",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-18T13:51:36.939938+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "313d91d0-1726-410c-b82f-705e18cd81dd",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-18T14:44:12.522486+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "372ad777-41af-49c4-a65e-7463d8028037",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-19T07:40:40.968686+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "221141ec-4b69-4aad-8811-a99cdb25c5ff",
+      "customer_id": "9c2d97a4-0f92-462e-aaf6-250ccc61a121",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-19T09:13:44.089185+00:00",
+      "customer_name": "Maryam Zeynalova",
+      "customer_phone": "0556832823",
+      "customer_loyalty_id": "ALD-355638"
+    },
+    {
+      "id": "4fda2ef0-284c-44ef-a833-2b6511e60a76",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-19T10:17:52.750816+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "144e44b8-8bd8-47c9-94ca-27b88caef5b5",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-19T10:19:41.767783+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "09f9bae2-1afa-4146-8ee1-401c8c355b39",
+      "customer_id": "283c41cd-fa17-4b82-9488-8db33ae482c6",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-19T10:58:06.484932+00:00",
+      "customer_name": "Zeynab Mammadzade",
+      "customer_phone": "0505422634",
+      "customer_loyalty_id": "ALD-843537"
+    },
+    {
+      "id": "54b80a6e-5b00-4ba0-a61f-7bb18035f9f5",
+      "customer_id": "eda9f482-fd96-452d-b91c-8db4c613e1bf",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-19T11:00:24.403086+00:00",
+      "customer_name": "Ayan Mammadova",
+      "customer_phone": "0773121700",
+      "customer_loyalty_id": "ALD-890370"
+    },
+    {
+      "id": "d1430cd7-5394-4bc1-b37a-f9021188f6ef",
+      "customer_id": "eda9f482-fd96-452d-b91c-8db4c613e1bf",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-19T11:00:24.70415+00:00",
+      "customer_name": "Ayan Mammadova",
+      "customer_phone": "0773121700",
+      "customer_loyalty_id": "ALD-890370"
+    },
+    {
+      "id": "9b524b80-7653-4cbe-943e-5e984ddbd534",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-19T16:01:47.479261+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "c7b8f442-408b-4064-b2e6-fa782c055a36",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-20T07:58:45.132415+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "43041269-a011-4abe-b369-f70e8509a37e",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-20T07:58:45.456923+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "dc5d7495-ba9b-4f4b-b1a6-227f04b97ad1",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-20T09:25:33.856093+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "8d4be7c0-8541-49f3-8d90-971e178d8aa8",
+      "customer_id": "603ce7dd-a3ac-4374-83ef-63d340fce2bf",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-20T12:30:48.914461+00:00",
+      "customer_name": "Javidan Qasimov",
+      "customer_phone": "502876444",
+      "customer_loyalty_id": "ALD-219763"
+    },
+    {
+      "id": "6986d08b-b891-4d95-a0dd-2c5e7cec8c48",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-20T15:20:02.00759+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "6422b937-272f-4224-a1eb-7b22b30a9b01",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-21T08:53:40.02486+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "81d79b2e-4c05-4a36-b84a-01e056b4c5f3",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-21T10:34:36.330135+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "067575e8-1c77-46c8-9276-a8af141866a4",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-21T10:35:20.165476+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "f33eea7a-21ac-456c-b4f0-e62e0a6d1694",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-21T10:54:23.928888+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "490b37e3-511f-4072-a5fd-f4386de16917",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-21T10:54:24.247389+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "b604d7d9-6014-431f-9d13-99bf67aa1137",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-21T15:46:17.963458+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "61836047-84d9-4ab7-8a83-530ae3d53fac",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-22T10:47:31.426511+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "d98f1fba-e2e2-4065-a7f7-4dde1e52a008",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-22T10:49:00.798674+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "7c150f0c-4ee6-4352-b710-03c2b33aa81f",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-22T10:50:14.93844+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "84f02ce4-28a8-4404-8db8-8c3db16ba87e",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-22T10:51:35.771722+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "decb3795-7de9-4a5f-af6c-23b067cfdec1",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-22T10:55:39.24581+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "41aa0884-072a-4c51-b60c-a8378c730277",
+      "customer_id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-22T11:12:34.641701+00:00",
+      "customer_name": "Adil Karimov",
+      "customer_phone": "513908822",
+      "customer_loyalty_id": "ALD-699059"
+    },
+    {
+      "id": "c8a1c3a1-dfe3-4418-8635-0c018791956a",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-22T12:44:09.005216+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "915e59c1-5e88-41fd-acd9-67b82ecc4684",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-23T07:52:19.467291+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "35e2df7a-ce53-4d43-a2c8-938e2d9672b1",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-23T08:06:09.781439+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "9784e729-4dd9-4b8c-8f82-0900f63d8a1b",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-23T09:09:03.864131+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "91adefa9-e143-4e70-98db-75f8ee7ec971",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-23T10:52:53.00668+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "9e8093be-cd78-4f5b-8731-ed4433dc02ac",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-23T11:02:37.382453+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "a6c5514a-bcbf-4174-bd0d-64170e52136a",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-23T14:25:39.999957+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "d31d222a-e69b-459d-b1d1-7e09efd994b0",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-23T14:41:05.799872+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "79311b0f-61c3-456a-abdf-c85494c1e571",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-24T07:36:06.097998+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "0e1ddddb-de9c-4b5a-9488-0422593e2dd8",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-24T08:11:03.543009+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "d95ad26a-1ff1-4966-9ffb-1177bde1a794",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-24T09:04:43.993474+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "3d484ab8-b88d-432b-a8dc-f1c9b6a5c035",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-24T09:08:08.99936+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "86651a68-4841-48bf-9e2f-13c6fa980679",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 5,
+      "created_at": "2026-10-24T09:08:09.314744+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "e7881337-4d7a-40a4-8037-36493c25e98a",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-24T09:20:07.584953+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "f949d5a0-d2e6-4166-a78d-d95609ebd1da",
+      "customer_id": "a1ecd317-217e-4a82-b673-7b7fe288e5bf",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-24T13:41:33.658814+00:00",
+      "customer_name": "Zehirova Nergiz",
+      "customer_phone": "0502841384",
+      "customer_loyalty_id": "ALD-205528"
+    },
+    {
+      "id": "3f01d249-19aa-4c9f-b997-efe195d7107f",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-24T14:24:45.481681+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "573eda0c-def7-40d4-acb0-749d2df4e722",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-24T19:29:20.996752+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "193334a8-c586-4cd6-b367-d9696ecfcad6",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-25T07:48:04.810317+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "480adcac-0e73-4567-a5a8-83ebbf531b50",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-25T08:14:39.0049+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "39f746a4-bfcd-489b-a2bf-068985800e46",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-25T08:14:39.306885+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "e6ffd37d-6e11-4280-b0bd-3c0fa8c1e882",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-25T08:16:02.657357+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "e6d607e5-08ba-49d2-8656-462433e5fdc3",
+      "customer_id": "a2df01b0-378b-4e34-a369-91ecfa8520d5",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-25T08:55:23.341249+00:00",
+      "customer_name": "Nargiz Mammadova",
+      "customer_phone": "502125101",
+      "customer_loyalty_id": "ALD-729967"
+    },
+    {
+      "id": "faf5d30f-194d-462d-bcd0-eae2da536195",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-25T09:58:23.763388+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "2e8825c5-0606-42a8-a34b-bdc375d4fb3d",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-25T10:06:09.815793+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "f36b629a-a976-467c-89ac-db82dea4f58f",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-25T10:31:03.049824+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "c3f88cb9-a04b-48f8-b544-7c0a8047c340",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-25T13:40:01.900367+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "08f2453a-a47f-4111-aeec-ddcc92cfc4a9",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-25T13:42:04.007864+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "aa272eee-f64a-4952-baac-e263dd8ee7a1",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-26T08:48:47.229539+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "497d8ac2-fa75-48e7-a869-0ea64d65cc0c",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-26T13:24:28.632674+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "c0751cb4-eb00-4022-8a60-1115e8204c15",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 4,
+      "created_at": "2026-10-26T15:39:13.857286+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "974b7b78-cd20-4bed-a50b-30cbc1362276",
+      "customer_id": "a66d0bfd-af59-4c69-b576-26546ed8851f",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T07:43:13.562128+00:00",
+      "customer_name": "Michelle Mammadova",
+      "customer_phone": "0553413632",
+      "customer_loyalty_id": "ALD-907727"
+    },
+    {
+      "id": "a225032b-075a-4be5-b771-79ae2332a70a",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T08:51:22.306303+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "ef4af6aa-7085-4f28-ba8b-f242a210306d",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T09:33:16.433854+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "aa144f13-e091-4067-9d09-6314480903db",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-27T11:05:22.394156+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "79df0baf-a179-4137-af6f-f460bbc7f8d3",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T14:08:24.350696+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "092a0c07-2b42-4dbc-896d-ec59f8463556",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-27T15:08:09.810116+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "0e80d004-d3e7-4e1f-8581-aec7895f58db",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-27T15:08:10.130782+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "9f88e7b4-2766-41fa-9427-b0f61fe3415c",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-27T16:24:41.385429+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "fc29dfab-72be-4b42-8844-aca083e54a71",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-27T16:24:42.240637+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "43e8df77-5d5f-452f-939a-b32f7f3aff76",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T16:33:29.764561+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "ee35b075-80da-4d7d-b0a6-8edf3e5a080d",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-27T17:41:08.032963+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "a84a4d78-530f-486f-8f97-d3b1bfa84394",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-27T17:42:27.781025+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "1ff84630-2283-45d4-8806-1c27795cd038",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-28T12:07:57.050863+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "57e6f374-6ee1-45cf-9129-b05a928c0d7d",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-28T14:59:01.217697+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "e9db568c-821e-4982-a2d0-63cba268e6ea",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-28T15:02:12.222615+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "da2a4475-ea97-4bd0-bcea-615e5f177ffd",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-29T13:23:00.92327+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "6df57193-40ec-4aa8-b399-48438bebab2f",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-29T13:58:03.083884+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "52b8c313-ff7f-4024-a140-d071cf8ceb90",
+      "customer_id": "562c1221-b616-4aa2-a52f-5a164a6a54c6",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-29T14:00:11.168399+00:00",
+      "customer_name": "Ulker Mammadova",
+      "customer_phone": "0105042222",
+      "customer_loyalty_id": "ALD-542846"
+    },
+    {
+      "id": "0a834d76-6aa9-4f22-aced-82d31f9e0a17",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-29T14:27:03.495488+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "cabf14a0-6cee-48aa-b345-593989519d1e",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-29T15:36:04.246008+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "74bac95f-fb15-4fdf-a9e7-c673a819eace",
+      "customer_id": "ce0fe1e8-ff08-4e8c-b693-743e0a131ac1",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-29T15:36:04.558392+00:00",
+      "customer_name": "Yusif Verdiyev",
+      "customer_phone": "0773791956",
+      "customer_loyalty_id": "ALI-D5BF046D"
+    },
+    {
+      "id": "32c3aead-c88e-4a03-a7d2-c3407588dfaa",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-30T08:19:02.378066+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "f3cf513b-bf8e-49a1-8638-fc0a7734214d",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-30T12:00:31.675873+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "86198501-02fc-4dbc-a057-6ebf15383b2a",
+      "customer_id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-30T12:24:07.250572+00:00",
+      "customer_name": "Javid Eyvazov",
+      "customer_phone": "519709445",
+      "customer_loyalty_id": "ALD-294809"
+    },
+    {
+      "id": "3aa27f53-addb-4574-86db-51e2d7222f06",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)",
+      "stamps": 7,
+      "created_at": "2026-10-30T12:26:18.299629+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "ebd4e668-2543-44db-abff-4eb95b1d714d",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-30T12:26:18.606944+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "fb12ea6b-6fa4-45ac-abd8-194a36f30e25",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-30T12:35:58.049394+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "f8807a35-f8da-4c07-b0db-92a3ca4ae73b",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 3,
+      "created_at": "2026-10-30T12:52:53.450272+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    },
+    {
+      "id": "72d4c8f3-e463-4a39-9fef-fb32fa32dead",
+      "customer_id": "b0ce6c7b-a26c-4b4c-a2fc-f8324cdb1393",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-30T16:17:26.456943+00:00",
+      "customer_name": "Nadir Iskenderov",
+      "customer_phone": "0515842222",
+      "customer_loyalty_id": "ALD-174443"
+    },
+    {
+      "id": "752b9fd2-04c4-4b8a-8259-dd7851cecb1f",
+      "customer_id": "603ce7dd-a3ac-4374-83ef-63d340fce2bf",
+      "type": "earn",
+      "stamps": 2,
+      "created_at": "2026-10-30T16:56:29.761633+00:00",
+      "customer_name": "Javidan Qasimov",
+      "customer_phone": "502876444",
+      "customer_loyalty_id": "ALD-219763"
+    },
+    {
+      "id": "cd5f6d8c-fdfc-4103-9a6f-c1dfa37c86c3",
+      "customer_id": "3981511d-46f5-41a9-a757-6771af86f2e7",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-31T08:27:18.784827+00:00",
+      "customer_name": "Tamerlan Mammadov",
+      "customer_phone": "0501010025",
+      "customer_loyalty_id": "ALI-3911DAF0"
+    },
+    {
+      "id": "9fec53e1-a716-4714-91fd-985faeec8257",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-31T08:58:26.373473+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "ea7f9cf5-9947-4ba8-b735-b8cb39a7d054",
+      "customer_id": "699cdfcf-d44c-4dce-944f-1902f0424023",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-31T13:00:06.973549+00:00",
+      "customer_name": "Kanan Bashir",
+      "customer_phone": "0514200878",
+      "customer_loyalty_id": "ALD-673906"
+    },
+    {
+      "id": "57d688f3-c2e8-435c-b5bc-12cc0def3182",
+      "customer_id": "97a0bfd1-2878-4d4a-9f48-a03dc19f8b95",
+      "type": "earn",
+      "stamps": 1,
+      "created_at": "2026-10-31T13:47:32.965174+00:00",
+      "customer_name": "Tural Zeynalov",
+      "customer_phone": "0775200123",
+      "customer_loyalty_id": "ALI-ACE26F9F"
+    }
+  ]
+}

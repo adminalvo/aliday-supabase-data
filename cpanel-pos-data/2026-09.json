@@ -1,0 +1,718 @@
+{
+  "month": "2026-09",
+  "summary": {
+    "pos_shifts": 12,
+    "customers_local_cache": 24,
+    "staff_users": 2,
+    "pos_orders_total_amount": 0
+  },
+  "pos_shifts": [
+    {
+      "id": "shift-1790792295480",
+      "zReportNo": "Z-295136",
+      "openedAt": "2026-09-30T15:08:11.557Z",
+      "closedAt": "2026-09-30T18:18:15.481Z",
+      "cashierName": "Darya",
+      "cashierRole": "Kassir",
+      "cashierPin": "4321",
+      "ordersCount": 300,
+      "totalRevenue": 2323.1800000000026,
+      "cashRevenue": 455.1,
+      "cardRevenue": 1868.0800000000006,
+      "totalDiscount": 269.41999999999985,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 455.1,
+      "actualDrawerCash": 455.1,
+      "cashDiff": 0,
+      "staffSummary": [
+        {
+          "name": "Darya",
+          "role": "Kassir",
+          "revenue": 1548.300000000001,
+          "orders": 198,
+          "cash": 300.90000000000003,
+          "card": 1247.4000000000003
+        },
+        {
+          "name": "Kassir 1 (Növbə A)",
+          "role": "Kassir",
+          "revenue": 13.05,
+          "orders": 2,
+          "cash": 0,
+          "card": 13.05
+        },
+        {
+          "name": "Ayan",
+          "role": "Kassir",
+          "revenue": 232.15000000000003,
+          "orders": 28,
+          "cash": 48.5,
+          "card": 183.64999999999998
+        },
+        {
+          "name": "Arzu",
+          "role": "Kassir",
+          "revenue": 355.78,
+          "orders": 46,
+          "cash": 55.8,
+          "card": 299.97999999999996
+        },
+        {
+          "name": "Baş Administrator",
+          "role": "Baş Administrator",
+          "revenue": 173.9,
+          "orders": 26,
+          "cash": 49.900000000000006,
+          "card": 123.99999999999999
+        }
+      ],
+      "topProducts": [
+        {
+          "name": "Cappuccino",
+          "count": 60,
+          "revenue": 377
+        },
+        {
+          "name": "Americano",
+          "count": 56,
+          "revenue": 283
+        },
+        {
+          "name": "Cesar roll",
+          "count": 30,
+          "revenue": 270
+        },
+        {
+          "name": "Coca-Cola",
+          "count": 26,
+          "revenue": 78
+        },
+        {
+          "name": "Latte",
+          "count": 25,
+          "revenue": 155
+        },
+        {
+          "name": "Iced Americano",
+          "count": 22,
+          "revenue": 135
+        },
+        {
+          "name": "Chicken bowl diet salad",
+          "count": 22,
+          "revenue": 220
+        },
+        {
+          "name": "Coca-Cola Zero",
+          "count": 21,
+          "revenue": 63
+        }
+      ],
+      "categoryBreakdown": [],
+      "status": "closed",
+      "created_at": "2026-09-30T18:18:14+00:00"
+    },
+    {
+      "id": "shift-1789666129356",
+      "zReportNo": "Z-129157",
+      "openedAt": "2026-09-17T04:19:34.648Z",
+      "closedAt": "2026-09-17T17:28:49.356Z",
+      "cashierName": "Arzu",
+      "cashierRole": "Kassir",
+      "cashierPin": "1515",
+      "ordersCount": 118,
+      "totalRevenue": 903.4999999999997,
+      "cashRevenue": 269.2,
+      "cardRevenue": 634.3,
+      "totalDiscount": 78,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 269.2,
+      "actualDrawerCash": 269.2,
+      "cashDiff": 0,
+      "staffSummary": [
+        {
+          "name": "Arzu",
+          "role": "Kassir",
+          "revenue": 200.7,
+          "orders": 24,
+          "cash": 28,
+          "card": 172.7
+        },
+        {
+          "name": "Darya",
+          "role": "Kassir",
+          "revenue": 261.80000000000007,
+          "orders": 34,
+          "cash": 117.6,
+          "card": 144.2
+        },
+        {
+          "name": "Baş Administrator",
+          "role": "Baş Administrator",
+          "revenue": 210.3,
+          "orders": 32,
+          "cash": 61.900000000000006,
+          "card": 148.4
+        },
+        {
+          "name": "Ayan",
+          "role": "Kassir",
+          "revenue": 222.15,
+          "orders": 27,
+          "cash": 61.7,
+          "card": 160.45
+        },
+        {
+          "name": "Kassir 1 (Növbə A)",
+          "role": "Kassir",
+          "revenue": 8.55,
+          "orders": 1,
+          "cash": 0,
+          "card": 8.55
+        }
+      ],
+      "topProducts": [
+        {
+          "name": "Cappuccino",
+          "count": 26,
+          "revenue": 156
+        },
+        {
+          "name": "Latte",
+          "count": 24,
+          "revenue": 144
+        },
+        {
+          "name": "Americano",
+          "count": 20,
+          "revenue": 104
+        },
+        {
+          "name": "Aliday Signature (ICED)",
+          "count": 11,
+          "revenue": 99
+        },
+        {
+          "name": "Raf Coffee",
+          "count": 10,
+          "revenue": 74
+        },
+        {
+          "name": "Flat White",
+          "count": 9,
+          "revenue": 54
+        },
+        {
+          "name": "Spanish Latte",
+          "count": 8,
+          "revenue": 60
+        },
+        {
+          "name": "Caramel Macchiato",
+          "count": 6,
+          "revenue": 45
+        }
+      ],
+      "categoryBreakdown": [],
+      "status": "closed",
+      "created_at": "2026-09-17T17:28:49+00:00"
+    },
+    {
+      "id": "shift-20260915",
+      "zReportNo": "Z-20260915",
+      "openedAt": "2026-09-15T06:47:00.435080+00:00",
+      "closedAt": "2026-09-15T17:08:19.970Z",
+      "cashierName": "Baş Administrator",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 14,
+      "totalRevenue": 96,
+      "cashRevenue": 31.3,
+      "cardRevenue": 64.7,
+      "totalDiscount": 8.8,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 31.3,
+      "actualDrawerCash": 31.3,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-15T17:08:19.970Z"
+    },
+    {
+      "id": "shift-20260914",
+      "zReportNo": "Z-20260914",
+      "openedAt": "2026-09-14T06:43:31.590527+00:00",
+      "closedAt": "2026-09-14T21:31:30+03:00",
+      "cashierName": "Darya",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 19,
+      "totalRevenue": 128.65,
+      "cashRevenue": 55.5,
+      "cardRevenue": 73.15,
+      "totalDiscount": 12.85,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 55.5,
+      "actualDrawerCash": 55.5,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-14T21:31:30+03:00"
+    },
+    {
+      "id": "shift-20260913",
+      "zReportNo": "Z-20260913",
+      "openedAt": "2026-09-13T14:30:02+03:00",
+      "closedAt": "2026-09-13T19:48:51+03:00",
+      "cashierName": "Darya",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 3,
+      "totalRevenue": 17.5,
+      "cashRevenue": 0,
+      "cardRevenue": 17.5,
+      "totalDiscount": 0,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 0,
+      "actualDrawerCash": 0,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-13T19:48:51+03:00"
+    },
+    {
+      "id": "shift-20260912",
+      "zReportNo": "Z-20260912",
+      "openedAt": "2026-09-12T07:30:41.878648+00:00",
+      "closedAt": "2026-09-12T19:24:20+03:00",
+      "cashierName": "Baş Administrator",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 8,
+      "totalRevenue": 50,
+      "cashRevenue": 6,
+      "cardRevenue": 44,
+      "totalDiscount": 11,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 6,
+      "actualDrawerCash": 6,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-12T19:24:20+03:00"
+    },
+    {
+      "id": "shift-20260911",
+      "zReportNo": "Z-20260911",
+      "openedAt": "2026-09-11T06:10:47.219436+00:00",
+      "closedAt": "2026-09-11T15:28:46.527797+00:00",
+      "cashierName": "Ayan",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 13,
+      "totalRevenue": 112.4,
+      "cashRevenue": 44.4,
+      "cardRevenue": 68,
+      "totalDiscount": 19.6,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 44.4,
+      "actualDrawerCash": 44.4,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-11T15:28:46.527797+00:00"
+    },
+    {
+      "id": "shift-20260910",
+      "zReportNo": "Z-20260910",
+      "openedAt": "2026-09-10T02:11:02+03:00",
+      "closedAt": "2026-09-10T18:06:01+03:00",
+      "cashierName": "Ayan",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 18,
+      "totalRevenue": 144.6,
+      "cashRevenue": 27,
+      "cardRevenue": 117.6,
+      "totalDiscount": 11.9,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 27,
+      "actualDrawerCash": 27,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-10T18:06:01+03:00"
+    },
+    {
+      "id": "shift-20260909",
+      "zReportNo": "Z-20260909",
+      "openedAt": "2026-09-09T17:46:45+03:00",
+      "closedAt": "2026-09-09T18:48:14+03:00",
+      "cashierName": "Baş Administrator",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 3,
+      "totalRevenue": 24,
+      "cashRevenue": 9,
+      "cardRevenue": 15,
+      "totalDiscount": 0,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 9,
+      "actualDrawerCash": 9,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-09T18:48:14+03:00"
+    },
+    {
+      "id": "shift-20260908",
+      "zReportNo": "Z-20260908",
+      "openedAt": "2026-09-08T19:05:15+03:00",
+      "closedAt": "2026-09-08T19:05:15+03:00",
+      "cashierName": "Darya",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 1,
+      "totalRevenue": 6,
+      "cashRevenue": 0,
+      "cardRevenue": 6,
+      "totalDiscount": 0,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 0,
+      "actualDrawerCash": 0,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-08T19:05:15+03:00"
+    },
+    {
+      "id": "shift-20260904",
+      "zReportNo": "Z-20260904",
+      "openedAt": "2026-09-04T10:04:26.196389+00:00",
+      "closedAt": "2026-09-04T13:35:15.366Z",
+      "cashierName": "Kassir 1 (Növbə A)",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 8,
+      "totalRevenue": 53.15,
+      "cashRevenue": 6,
+      "cardRevenue": 47.15,
+      "totalDiscount": 5.35,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 6,
+      "actualDrawerCash": 6,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-04T13:35:15.366Z"
+    },
+    {
+      "id": "shift-20260903",
+      "zReportNo": "Z-20260903",
+      "openedAt": "2026-09-03T14:10:41+03:00",
+      "closedAt": "2026-09-03T15:57:27+03:00",
+      "cashierName": "Darya",
+      "cashierRole": "Kassir",
+      "cashierPin": "2024",
+      "ordersCount": 2,
+      "totalRevenue": 15,
+      "cashRevenue": 9,
+      "cardRevenue": 6,
+      "totalDiscount": 0,
+      "totalService": 0,
+      "totalExpenses": 0,
+      "expectedDrawerCash": 9,
+      "actualDrawerCash": 9,
+      "cashDiff": 0,
+      "status": "closed",
+      "created_at": "2026-09-03T15:57:27+03:00"
+    }
+  ],
+  "customers_local_cache": [
+    {
+      "id": "cust-1788512901-400",
+      "loyalty_id": "ALD-108875",
+      "full_name": "Daimi Qonaq",
+      "phone": "0501112233",
+      "discount_percent": 15,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Gold",
+      "created_at": "2026-09-04T09:08:21+00:00"
+    },
+    {
+      "id": "39915d9f-562f-4812-bbe2-3bd65c74b708",
+      "loyalty_id": "ALD-294809",
+      "full_name": "Javid Eyvazov",
+      "phone": "519709445",
+      "discount_percent": 10,
+      "stamps_count": 2,
+      "lifetime_stamps": 22,
+      "tier": "Bronze",
+      "created_at": "2026-09-10T08:12:32+00:00"
+    },
+    {
+      "id": "cb230420-0b78-4191-8621-699607e3cb77",
+      "loyalty_id": "ALD-917505",
+      "full_name": "Heydarova Sevinc",
+      "phone": "0504991075",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:20:53+00:00"
+    },
+    {
+      "id": "6b38b2ad-8635-4762-8f46-6b5af59672c4",
+      "loyalty_id": "ALD-512053",
+      "full_name": "Ibadova Elvira",
+      "phone": "0556747421",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:21:39+00:00"
+    },
+    {
+      "id": "05350bce-c113-4491-a3da-faeceb5d6757",
+      "loyalty_id": "ALD-799999",
+      "full_name": "Nabiyeva Farida",
+      "phone": "0507936320",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:22:07+00:00"
+    },
+    {
+      "id": "cust-1789035778-739",
+      "loyalty_id": "ALD-341980",
+      "full_name": "Shebnem Khureni",
+      "phone": "0557020775",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:22:59+00:00"
+    },
+    {
+      "id": "338dd352-cbd6-47ef-bf17-927fcc96fa4e",
+      "loyalty_id": "ALD-724267",
+      "full_name": "Ruslan Lesovoy",
+      "phone": "0507338268",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:23:06+00:00"
+    },
+    {
+      "id": "229884fc-7392-4559-aca3-9f2a3acbcbff",
+      "loyalty_id": "ALD-681193",
+      "full_name": "Ismayilova Benovshe",
+      "phone": "0505837773",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:23:41+00:00"
+    },
+    {
+      "id": "a1ecd317-217e-4a82-b673-7b7fe288e5bf",
+      "loyalty_id": "ALD-205528",
+      "full_name": "Zehirova Nergiz",
+      "phone": "0502841384",
+      "discount_percent": 10,
+      "stamps_count": 1,
+      "lifetime_stamps": 1,
+      "tier": "Bronze",
+      "created_at": "2026-09-10T10:24:43+00:00"
+    },
+    {
+      "id": "a6a59525-589e-4cc1-8aee-e114eba7cac9",
+      "loyalty_id": "ALD-880380",
+      "full_name": "Haciehmedova Gunel",
+      "phone": "0773330180",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:25:14+00:00"
+    },
+    {
+      "id": "95ddcedb-ff5d-4586-8aac-9b32172b3a19",
+      "loyalty_id": "ALD-239705",
+      "full_name": "Shebnem Hormeti",
+      "phone": "0514506800",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:26:08+00:00"
+    },
+    {
+      "id": "ff23220e-45ab-492a-966c-727d2f4f4472",
+      "loyalty_id": "ALD-902071",
+      "full_name": "Rugayya Bayramova",
+      "phone": "0514149282",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:26:39+00:00"
+    },
+    {
+      "id": "20403530-31cc-489e-9780-a09f3d438369",
+      "loyalty_id": "ALD-409565",
+      "full_name": "Cibirov Elvin",
+      "phone": "0508648680",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:27:27+00:00"
+    },
+    {
+      "id": "d2af1d2e-a140-46bf-a90b-67f26b2a8083",
+      "loyalty_id": "ALD-310238",
+      "full_name": "Ulvi Aliyev",
+      "phone": "0508396408",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:27:44+00:00"
+    },
+    {
+      "id": "fe123957-a4f3-4653-82dd-c4bf34a76828",
+      "loyalty_id": "ALD-293645",
+      "full_name": "Evez Nurmemmedli",
+      "phone": "0773950090",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:28:07+00:00"
+    },
+    {
+      "id": "cust-1789036107-615",
+      "loyalty_id": "ALD-310003",
+      "full_name": "Narmin Allahverdiyeva",
+      "phone": "0556260775",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:28:33+00:00"
+    },
+    {
+      "id": "3740a1d0-8ff7-4ba6-81ef-c9cdb6aa7542",
+      "loyalty_id": "ALD-999017",
+      "full_name": "Aslanova Samira",
+      "phone": "0553899235",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:29:29+00:00"
+    },
+    {
+      "id": "85c09008-929e-4553-aa7e-fec87d9d6fc0",
+      "loyalty_id": "ALD-674467",
+      "full_name": "Gulnar Cabbarova",
+      "phone": "0513660454",
+      "discount_percent": 10,
+      "stamps_count": 1,
+      "lifetime_stamps": 1,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:30:45+00:00"
+    },
+    {
+      "id": "809d3400-e0d2-47f2-902c-7e00a54fc670",
+      "loyalty_id": "ALD-947118",
+      "full_name": "Olga Abbasova",
+      "phone": "0554396323",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-10T10:30:37+00:00"
+    },
+    {
+      "id": "7d1f095f-6209-4f83-b033-7ee2323d721c",
+      "loyalty_id": "ALD-121631",
+      "full_name": "Sheyda Gadjiyeva",
+      "phone": "0995100909",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-16T05:25:01+00:00"
+    },
+    {
+      "id": "6e9e3c31-dda8-4ff7-b72c-97e1758dbb98",
+      "loyalty_id": "ALD-457640",
+      "full_name": "Aygun Gahramanova",
+      "phone": "0502725202",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-16T05:25:43+00:00"
+    },
+    {
+      "id": "16c7f377-978c-4474-a260-2eaa90bfc0c3",
+      "loyalty_id": "ALD-600357",
+      "full_name": "Aydin Kazimov",
+      "phone": "0553995000",
+      "discount_percent": 10,
+      "stamps_count": 0,
+      "lifetime_stamps": 0,
+      "tier": "Silver",
+      "created_at": "2026-09-18T18:37:50+00:00"
+    },
+    {
+      "id": "0f78d021-afe4-4b49-b934-84a303dfe487",
+      "loyalty_id": "ALD-699059",
+      "full_name": "Adil Karimov",
+      "phone": "513908822",
+      "discount_percent": 10,
+      "stamps_count": 2,
+      "lifetime_stamps": 23,
+      "tier": "Silver",
+      "created_at": "2026-09-19T09:50:38+00:00"
+    },
+    {
+      "id": "83715abb-0463-40fa-b5b8-bda925500c5e",
+      "loyalty_id": "ALD-286149",
+      "full_name": "Darya Vasilchenko",
+      "phone": "0706699753",
+      "discount_percent": 10,
+      "stamps_count": 6,
+      "lifetime_stamps": 6,
+      "tier": "Silver",
+      "created_at": "2026-09-27T13:46:28+00:00"
+    }
+  ],
+  "staff_users": [
+    {
+      "id": "st-admin",
+      "name": "Baş Administrator",
+      "role": "admin",
+      "pin": "0404",
+      "isActive": true,
+      "created_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "st-1788505563",
+      "name": "michelle",
+      "role": "editor",
+      "pin": "2254",
+      "isActive": true,
+      "is_active": true,
+      "created_at": "2026-09-04T07:06:03+00:00"
+    }
+  ]
+}

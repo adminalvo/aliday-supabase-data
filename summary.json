@@ -1,0 +1,39 @@
+{
+  "source": "Supabase (alvylmjiwlzgnbdvzffd.supabase.co)",
+  "tables": {
+    "customers": 57,
+    "transactions": 387
+  },
+  "months": {
+    "2026-09": {
+      "new_customers_count": 44,
+      "transactions_count": 127,
+      "transactions_by_type": {
+        "earn": 116,
+        "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)": 11
+      },
+      "total_stamps_earned": 160,
+      "total_stamps_redeemed": 77
+    },
+    "2026-10": {
+      "new_customers_count": 8,
+      "transactions_count": 184,
+      "transactions_by_type": {
+        "earn": 155,
+        "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)": 29
+      },
+      "total_stamps_earned": 252,
+      "total_stamps_redeemed": 203
+    },
+    "2026-11": {
+      "new_customers_count": 5,
+      "transactions_count": 76,
+      "transactions_by_type": {
+        "earn": 60,
+        "spend: 1 Pulsuz Kofe (7 CUP istifade edildi)": 16
+      },
+      "total_stamps_earned": 99,
+      "total_stamps_redeemed": 112
+    }
+  }
+}

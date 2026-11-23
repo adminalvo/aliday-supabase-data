@@ -1,0 +1,1794 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Hot Coffee",
+      "iconType": "coffee"
+    },
+    {
+      "id": "cat-2",
+      "name": "Warm Favourites",
+      "iconType": "flame"
+    },
+    {
+      "id": "cat-3",
+      "name": "Tea",
+      "iconType": "tea"
+    },
+    {
+      "id": "cat-4",
+      "name": "Aliday Signature",
+      "iconType": "sparkles"
+    },
+    {
+      "id": "cat-5",
+      "name": "Specialty",
+      "iconType": "coffee"
+    },
+    {
+      "id": "cat-6",
+      "name": "Fresh — 300 ml",
+      "iconType": "glass"
+    },
+    {
+      "id": "cat-7",
+      "name": "Iced Coffee",
+      "iconType": "coffee"
+    },
+    {
+      "id": "cat-8",
+      "name": "Milkshakes",
+      "iconType": "milk"
+    },
+    {
+      "id": "cat-9",
+      "name": "Aliday Soda",
+      "iconType": "soda"
+    },
+    {
+      "id": "cat-dessert",
+      "name": "Desserts",
+      "iconType": "cake"
+    },
+    {
+      "id": "cat-10",
+      "name": "Extras",
+      "iconType": "package"
+    },
+    {
+      "id": "cat-6690",
+      "name": "Food",
+      "iconType": "utensils"
+    },
+    {
+      "id": "cat-3355",
+      "name": "Soft drinks",
+      "iconType": "soda"
+    }
+  ],
+  "products": [
+    {
+      "id": "hot-esp-s",
+      "name": "Espresso Single",
+      "category": "Hot Coffee",
+      "price": 3.5,
+      "sizeDesc": "Single (30ml)",
+      "iconType": "coffee",
+      "popular": true,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "hot-esp-d",
+      "name": "Espresso Double",
+      "category": "Hot Coffee",
+      "price": 4.5,
+      "sizeDesc": "Double (60ml)",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-amer",
+      "name": "Americano",
+      "category": "Hot Coffee",
+      "priceSmall": 4.5,
+      "price": 5.5,
+      "priceLarge": 6.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-lungo",
+      "name": "Lungo",
+      "category": "Hot Coffee",
+      "price": 4.5,
+      "sizeDesc": "Standard (110ml)",
+      "iconType": "coffee",
+      "popular": false
+    },
+    {
+      "id": "hot-capp",
+      "name": "Cappuccino",
+      "category": "Hot Coffee",
+      "priceSmall": 5.5,
+      "price": 6.5,
+      "priceLarge": 7.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-latte",
+      "name": "Latte",
+      "category": "Hot Coffee",
+      "priceSmall": 5.5,
+      "price": 6.5,
+      "priceLarge": 7.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "hot-bmocha",
+      "name": "Black Mocha",
+      "category": "Hot Coffee",
+      "priceSmall": 6.5,
+      "price": 7.5,
+      "priceLarge": 8.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-wmocha",
+      "name": "White Mocha",
+      "category": "Hot Coffee",
+      "priceSmall": 6.5,
+      "price": 7.5,
+      "priceLarge": 8.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "coffee",
+      "popular": false
+    },
+    {
+      "id": "hot-carmac",
+      "name": "Caramel Macchiato",
+      "category": "Hot Coffee",
+      "priceSmall": 6.5,
+      "price": 7.5,
+      "priceLarge": 8.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-spanlat",
+      "name": "Spanish Latte",
+      "category": "Hot Coffee",
+      "priceSmall": 6.5,
+      "price": 7.5,
+      "priceLarge": 8.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "hot-flatw",
+      "name": "Flat White",
+      "category": "Hot Coffee",
+      "price": 6,
+      "sizeDesc": "Standard (200ml)",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "hot-raf",
+      "name": "Raf Coffee",
+      "category": "Hot Coffee",
+      "priceSmall": 6.5,
+      "price": 7.5,
+      "priceLarge": 8.5,
+      "sizeDesc": "S 250ml / M 350ml / L 450ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "tea-togo",
+      "name": "Tea to Go (350 ml)",
+      "category": "Tea",
+      "price": 3.5,
+      "sizeDesc": "350 ml",
+      "iconType": "tea",
+      "popular": true
+    },
+    {
+      "id": "tea-pot",
+      "name": "Tea Pot (700 ml)",
+      "category": "Tea",
+      "price": 7,
+      "sizeDesc": "700 ml Çaydan",
+      "iconType": "tea",
+      "popular": true
+    },
+    {
+      "id": "sig-aliday",
+      "name": "Aliday Coffee (ICED)",
+      "category": "Aliday Signature",
+      "price": 9,
+      "sizeDesc": "ICED (450ml)",
+      "description": "Espresso, orange juice and caramel over ice",
+      "iconType": "sparkles",
+      "popular": true
+    },
+    {
+      "id": "spc-affogato",
+      "name": "Affogato",
+      "category": "Hot Coffee",
+      "price": 6.5,
+      "sizeDesc": "One size",
+      "description": "Espresso over vanilla gelato",
+      "iconType": "cake",
+      "popular": false,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "spc-esptonic",
+      "name": "Espresso Tonic",
+      "category": "Specialty",
+      "price": 8,
+      "sizeDesc": "One size",
+      "description": "Double espresso with tonic & lime",
+      "iconType": "glass",
+      "popular": true,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "ice-amer",
+      "name": "Iced Americano",
+      "category": "Iced Coffee",
+      "priceSmall": 6,
+      "price": 6,
+      "priceLarge": 7,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "coffee",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "ice-latte",
+      "name": "Iced Latte",
+      "category": "Iced Coffee",
+      "priceSmall": 7,
+      "price": 7,
+      "priceLarge": 8,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "milk",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "ice-mocha",
+      "name": "Iced Mocha",
+      "category": "Iced Coffee",
+      "priceSmall": 8,
+      "price": 8,
+      "priceLarge": 9,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "coffee",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "ice-spanlat",
+      "name": "Iced Spanish Latte",
+      "category": "Iced Coffee",
+      "priceSmall": 8,
+      "price": 8,
+      "priceLarge": 9,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "milk",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "ice-raf",
+      "name": "Iced Raf",
+      "category": "Iced Coffee",
+      "priceSmall": 8,
+      "price": 8,
+      "priceLarge": 9,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "milk",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "ice-frappe",
+      "name": "Coffee Frappe",
+      "category": "Iced Coffee",
+      "priceSmall": 8,
+      "price": 8,
+      "priceLarge": 9,
+      "sizeDesc": "S 300ml / M 400ml / L 500ml",
+      "iconType": "soda",
+      "popular": true,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "mlk-vanilla",
+      "name": "Vanilla Milkshake",
+      "category": "Milkshakes",
+      "price": 7.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "mlk-chocolate",
+      "name": "Chocolate Milkshake",
+      "category": "Milkshakes",
+      "price": 7.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "mlk-strawberry",
+      "name": "Strawberry Milkshake",
+      "category": "Milkshakes",
+      "price": 7.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "mlk-banana",
+      "name": "Banana Milkshake",
+      "category": "Milkshakes",
+      "price": 7.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "milk",
+      "popular": false
+    },
+    {
+      "id": "sda-strawberry",
+      "name": "Strawberry Soda",
+      "category": "Aliday Soda",
+      "price": 6.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "soda",
+      "popular": true
+    },
+    {
+      "id": "sda-apple",
+      "name": "Apple Soda",
+      "category": "Aliday Soda",
+      "price": 6.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "soda",
+      "popular": false
+    },
+    {
+      "id": "sda-mangopassion",
+      "name": "Mango-Passion Fruit Soda",
+      "category": "Aliday Soda",
+      "price": 7,
+      "sizeDesc": "400–450 ml",
+      "iconType": "soda",
+      "popular": true
+    },
+    {
+      "id": "sda-mojito",
+      "name": "Mojito Soda",
+      "category": "Aliday Soda",
+      "price": 6.5,
+      "sizeDesc": "400–450 ml",
+      "iconType": "soda",
+      "popular": true
+    },
+    {
+      "id": "ext-shot",
+      "name": "Extra Espresso Shot",
+      "category": "Extras",
+      "price": 1.5,
+      "sizeDesc": "Single Shot",
+      "iconType": "coffee",
+      "popular": true
+    },
+    {
+      "id": "ext-syrup",
+      "name": "Flavoured Syrup",
+      "category": "Extras",
+      "price": 1.5,
+      "sizeDesc": "Vanil / Karamel / Fındıq / Lotus",
+      "iconType": "package",
+      "popular": true
+    },
+    {
+      "id": "ext-lacfree",
+      "name": "Lactose-Free Milk",
+      "category": "Extras",
+      "price": 1,
+      "sizeDesc": "Laktozsuz Süd",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "ext-plant",
+      "name": "Plant-Based Milk",
+      "category": "Extras",
+      "price": 1.5,
+      "sizeDesc": "Yulaf / Badam Südü",
+      "iconType": "milk",
+      "popular": true
+    },
+    {
+      "id": "prod-484647",
+      "name": "Napoleon cake",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-753418",
+      "name": "Cesar roll",
+      "category": "Food",
+      "price": 10,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-786931",
+      "name": "Caesar salad",
+      "category": "Food",
+      "price": 12,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-810685",
+      "name": "Chicken salad",
+      "category": "Food",
+      "price": 11,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "dst-sanseb",
+      "name": "San Sebastian Cheesecake",
+      "category": "Desserts",
+      "price": 8.4,
+      "sizeDesc": "1 Dilim",
+      "description": "Klassik ispan San Sebastian çiskeyki, şokolad sousu ilə",
+      "iconType": "cake",
+      "popular": true,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "dst-redvelvet",
+      "name": "Red Velvet Cake",
+      "category": "Desserts",
+      "price": 9,
+      "sizeDesc": "1 Dilim",
+      "description": "Qırmızı məxmər biskvit və krem-pendir",
+      "iconType": "cake",
+      "popular": true,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "dst-croissant-cl",
+      "name": "Klassik Kruassan",
+      "category": "Desserts",
+      "price": 4,
+      "sizeDesc": "1 Ədəd",
+      "description": "Fransız kərə yağı ilə bişirilmiş xırtıldayan kruassan",
+      "iconType": "cake",
+      "popular": false
+    },
+    {
+      "id": "dst-croissant-ch",
+      "name": "Nutella Kruassan",
+      "category": "Desserts",
+      "price": 4.8,
+      "sizeDesc": "1 Ədəd",
+      "description": "İçi zəngin Belçika şokoladlı təzə kruassan",
+      "iconType": "cake",
+      "popular": true,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "dst-muffin-ch",
+      "name": "Chocolate Muffin",
+      "category": "Desserts",
+      "price": 4.6,
+      "sizeDesc": "1 Ədəd",
+      "description": "İkiqat şokolad damlalı keks",
+      "iconType": "cake",
+      "popular": false,
+      "priceSmall": null,
+      "priceLarge": null,
+      "inStock": true,
+      "calories": null
+    },
+    {
+      "id": "prod-374086",
+      "name": "Club Sandwich",
+      "category": "Food",
+      "price": 7.2,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-586863",
+      "name": "Coca-Cola",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-600511",
+      "name": "Coca-Cola Zero",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-630451",
+      "name": "Redbull sugar free",
+      "category": "Soft drinks",
+      "price": 6,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-727285",
+      "name": "Redbull",
+      "category": "Soft drinks",
+      "price": 6,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-079052",
+      "name": "FuseTea Lemon",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-088320",
+      "name": "FuseTea Peach",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-123971",
+      "name": "FuseTea Mango Pineapple",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-129220",
+      "name": "Sprite",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-135454",
+      "name": "Fanta",
+      "category": "Soft drinks",
+      "price": 3,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-603285",
+      "name": "Water",
+      "category": "Soft drinks",
+      "price": 2.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-165668",
+      "name": "Crepe Strawberry Cake",
+      "category": "Desserts",
+      "price": 7.6,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-823473",
+      "name": "Crepe Nutella Cake",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-159817",
+      "name": "Croissant Chocolate",
+      "category": "Hot Coffee",
+      "price": 5.2,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-170652",
+      "name": "Croissant Almond",
+      "category": "Hot Coffee",
+      "price": 5.4,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-221052",
+      "name": "Schweppes",
+      "category": "Hot Coffee",
+      "price": 5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-218855",
+      "name": "Kruassan Sandwich",
+      "category": "Food",
+      "price": 11,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-283037",
+      "name": "Italian Sandwich",
+      "category": "Food",
+      "price": 10,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-321037",
+      "name": "Lotus roll",
+      "category": "Desserts",
+      "price": 7.2,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-342337",
+      "name": "Chocolate Crep diet",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-357554",
+      "name": "Chocolate Mouse diet",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-383638",
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "price": 8.4,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-440754",
+      "name": "Mars cake",
+      "category": "Desserts",
+      "price": 8.4,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-479504",
+      "name": "Oreo cheesecake",
+      "category": "Desserts",
+      "price": 8.4,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-493903",
+      "name": "Cherry Napoleon",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-825680",
+      "name": "Raspberry cheesecake",
+      "category": "Desserts",
+      "price": 8.4,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-977560",
+      "name": "Lavanda cake",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-815717",
+      "name": "Salep",
+      "category": "Warm Favourites",
+      "price": 6,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-829003",
+      "name": "Hot Chocolate",
+      "category": "Warm Favourites",
+      "price": 5.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-875887",
+      "name": "Strawberry Delight diet",
+      "category": "Desserts",
+      "price": 9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-934657",
+      "name": "Kolbasalı tost",
+      "category": "Food",
+      "price": 5.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-949887",
+      "name": "Pendirli tost",
+      "category": "Food",
+      "price": 4.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-966487",
+      "name": "Toyuqlu tost 6.50",
+      "category": "Food",
+      "price": 6.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-994988",
+      "name": "Şokaladlı Tost",
+      "category": "Food",
+      "price": 4.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-557799",
+      "name": "SET 2 nəfərlik KOLBASA ( 2 COLA)",
+      "category": "Food",
+      "price": 14,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-859141",
+      "name": "(SET) 2 KOLBASALI TOST 2 LİMONAD",
+      "category": "Food",
+      "price": 12.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-958124",
+      "name": "(SET) 4 NƏFƏRLİK KOLBASALI TOST 4 LİMONAD",
+      "category": "Food",
+      "price": 19.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-023558",
+      "name": "SƏHƏR SETİ 1 KAŞARLI TOST ÇAY",
+      "category": "Food",
+      "price": 4.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-363738",
+      "name": "Nar suyu",
+      "category": "Fresh — 300 ml",
+      "price": 5.5,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-972512",
+      "name": "Beef Sandwich",
+      "category": "Food",
+      "price": 8.9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    },
+    {
+      "id": "prod-552263",
+      "name": "(SET) 2 Cappucino 2 Desert",
+      "category": "Hot Coffee",
+      "price": 19.9,
+      "priceSmall": null,
+      "priceLarge": null,
+      "sizeDesc": "",
+      "popular": false,
+      "inStock": true,
+      "calories": null,
+      "description": ""
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-1789044078-675",
+      "name": "Hot cup takeaway M",
+      "category": "Qablaşdırma",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 0.2,
+      "cost_price": 0.2,
+      "unit_cost": 0.2,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:41:18+00:00",
+      "updated_at": "2026-09-10T12:41:18+00:00"
+    },
+    {
+      "id": "inv-1789044098-611",
+      "name": "Hot cup takeaway L",
+      "category": "Qablaşdırma",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 0.23,
+      "cost_price": 0.23,
+      "unit_cost": 0.23,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:47:46+00:00",
+      "updated_at": "2026-09-10T12:47:46+00:00"
+    },
+    {
+      "id": "inv-1789044317-299",
+      "name": "Pet cup takeaway S",
+      "category": "Qablaşdırma",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 0.24,
+      "cost_price": 0.24,
+      "unit_cost": 0.24,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:45:17+00:00",
+      "updated_at": "2026-09-10T12:45:17+00:00"
+    },
+    {
+      "id": "inv-1789044348-968",
+      "name": "Pet cup takeaway M",
+      "category": "Qablaşdırma",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 0.25,
+      "cost_price": 0.25,
+      "unit_cost": 0.25,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:45:48+00:00",
+      "updated_at": "2026-09-10T12:45:48+00:00"
+    },
+    {
+      "id": "inv-1789044442-801",
+      "name": "Pet cup takeaway L",
+      "category": "Qablaşdırma",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 0.26,
+      "cost_price": 0.26,
+      "unit_cost": 0.26,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:47:22+00:00",
+      "updated_at": "2026-09-10T12:47:22+00:00"
+    },
+    {
+      "id": "inv-1789044491-616",
+      "name": "Coffee",
+      "category": "Kofe",
+      "current_stock": 2.5,
+      "stock_qty": 2.5,
+      "unit": "kq",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 98,
+      "cost_price": 98,
+      "unit_cost": 98,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T12:48:11+00:00",
+      "updated_at": "2026-09-10T12:48:11+00:00"
+    },
+    {
+      "id": "inv-1789057474-728",
+      "name": "Milk",
+      "category": "Süd Məhsulları",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 2.5,
+      "cost_price": 2.5,
+      "unit_cost": 2.5,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T16:25:30+00:00",
+      "updated_at": "2026-09-10T16:25:30+00:00"
+    },
+    {
+      "id": "inv-1789057516-641",
+      "name": "Alternative milk",
+      "category": "Alternativ Süd",
+      "current_stock": 0,
+      "stock_qty": 0,
+      "unit": "ədəd",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 6,
+      "cost_price": 6,
+      "unit_cost": 6,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T16:25:16+00:00",
+      "updated_at": "2026-09-10T16:25:16+00:00"
+    },
+    {
+      "id": "inv-1789057577-601",
+      "name": "Syrup",
+      "category": "Sirop & Əlavələr",
+      "current_stock": 5.4,
+      "stock_qty": 5.4,
+      "unit": "L",
+      "min_threshold": 5,
+      "min_limit": 5,
+      "cost_per_unit": 17,
+      "cost_price": 17,
+      "unit_cost": 17,
+      "supplier": "Aliday Təchizat",
+      "created_at": "2026-09-10T16:26:17+00:00",
+      "updated_at": "2026-09-10T16:26:17+00:00"
+    }
+  ],
+  "aliday_db": {
+    "staff": [
+      {
+        "id": "st-admin",
+        "name": "Administrator",
+        "role": "admin",
+        "pin": "6655",
+        "isActive": true
+      },
+      {
+        "id": "st-748086",
+        "name": "Kassir",
+        "role": "cashier",
+        "pin": "1234",
+        "isActive": true
+      }
+    ],
+    "expenses": [],
+    "inventory": [],
+    "products": [
+      {
+        "id": "cls-1",
+        "name": "Espresso",
+        "category": "Classics",
+        "price": 4.5,
+        "iconType": "coffee",
+        "popular": true
+      },
+      {
+        "id": "cls-2",
+        "name": "Americano",
+        "category": "Classics",
+        "price": 5,
+        "priceLarge": 5.5,
+        "iconType": "coffee",
+        "popular": true
+      },
+      {
+        "id": "cls-3",
+        "name": "Latte",
+        "category": "Classics",
+        "price": 5.9,
+        "priceLarge": 6.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "cls-4",
+        "name": "Cappuccino",
+        "category": "Classics",
+        "price": 5.9,
+        "priceLarge": 6.9,
+        "iconType": "coffee",
+        "popular": true
+      },
+      {
+        "id": "cls-5",
+        "name": "Flat White",
+        "category": "Classics",
+        "price": 6.2,
+        "iconType": "coffee",
+        "popular": false
+      },
+      {
+        "id": "cls-6",
+        "name": "Cortado",
+        "category": "Classics",
+        "price": 5.2,
+        "iconType": "coffee",
+        "popular": false
+      },
+      {
+        "id": "brw-1",
+        "name": "Batch Brew",
+        "category": "Brew Bar",
+        "price": 5.2,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "brw-2",
+        "name": "Hario V60",
+        "category": "Brew Bar",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "brw-3",
+        "name": "Chemex",
+        "category": "Brew Bar",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "brw-4",
+        "name": "Aeropress",
+        "category": "Brew Bar",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "brw-5",
+        "name": "Kalita Wave",
+        "category": "Brew Bar",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "brw-6",
+        "name": "Turkish Coffee",
+        "category": "Brew Bar",
+        "price": 4,
+        "iconType": "coffee",
+        "popular": true
+      },
+      {
+        "id": "flv-1",
+        "name": "RAF Lemongrass",
+        "category": "Flavored",
+        "price": 8.5,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "flv-2",
+        "name": "Salted Caramel Latte",
+        "category": "Flavored",
+        "price": 7.5,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "flv-3",
+        "name": "Gingerbread Latte",
+        "category": "Flavored",
+        "price": 7.5,
+        "iconType": "milk",
+        "popular": false
+      },
+      {
+        "id": "flv-4",
+        "name": "Lotus Latte",
+        "category": "Flavored",
+        "price": 8.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "chc-1",
+        "name": "Mocha",
+        "category": "Chocolate",
+        "price": 7,
+        "priceLarge": 7.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "chc-2",
+        "name": "White Mocha",
+        "category": "Chocolate",
+        "price": 7,
+        "priceLarge": 7.9,
+        "iconType": "milk",
+        "popular": false
+      },
+      {
+        "id": "chc-3",
+        "name": "Hot Chocolate",
+        "category": "Chocolate",
+        "price": 6,
+        "priceLarge": 6.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "chc-4",
+        "name": "Black Forest Hot Chocolate",
+        "category": "Chocolate",
+        "price": 7.5,
+        "priceLarge": 8.5,
+        "iconType": "milk",
+        "popular": false
+      },
+      {
+        "id": "tea-1",
+        "name": "Chai Tea Latte",
+        "category": "Tea",
+        "price": 7.5,
+        "iconType": "tea",
+        "popular": true
+      },
+      {
+        "id": "tea-2",
+        "name": "Matcha Latte",
+        "category": "Tea",
+        "price": 6.9,
+        "iconType": "tea",
+        "popular": true
+      },
+      {
+        "id": "tea-3",
+        "name": "Traditional Black Tea",
+        "category": "Tea",
+        "price": 4.5,
+        "iconType": "tea",
+        "popular": true
+      },
+      {
+        "id": "tea-4",
+        "name": "Herbal Tea",
+        "category": "Tea",
+        "price": 4.9,
+        "iconType": "tea",
+        "popular": false
+      },
+      {
+        "id": "cld-1",
+        "name": "Iced Americano",
+        "category": "Cold Coffees",
+        "price": 5.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "cld-2",
+        "name": "Iced Latte",
+        "category": "Cold Coffees",
+        "price": 6.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "cld-3",
+        "name": "Iced Cappuccino",
+        "category": "Cold Coffees",
+        "price": 6.5,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "cld-4",
+        "name": "Iced Flat White",
+        "category": "Cold Coffees",
+        "price": 6.8,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "cld-5",
+        "name": "Iced Mocha",
+        "category": "Cold Coffees",
+        "price": 7.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "cld-6",
+        "name": "Iced White Mocha",
+        "category": "Cold Coffees",
+        "price": 7.5,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "cld-7",
+        "name": "Iced Caramel Macchiato",
+        "category": "Cold Coffees",
+        "price": 7.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "cld-8",
+        "name": "Iced Spanish Latte",
+        "category": "Cold Coffees",
+        "price": 7.9,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "cld-9",
+        "name": "Cold Brew",
+        "category": "Cold Coffees",
+        "price": 6.5,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "cld-10",
+        "name": "Nitro Cold Brew",
+        "category": "Cold Coffees",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "frp-1",
+        "name": "Coffee Frapbee",
+        "category": "Frapbee®",
+        "price": 7.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "frp-2",
+        "name": "Mocha Frapbee",
+        "category": "Frapbee®",
+        "price": 7.9,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "frp-3",
+        "name": "Caramel Frapbee",
+        "category": "Frapbee®",
+        "price": 7.9,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "frp-4",
+        "name": "Vanilla Frapbee",
+        "category": "Frapbee®",
+        "price": 7.5,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "frp-5",
+        "name": "Matcha Frapbee",
+        "category": "Frapbee®",
+        "price": 8.2,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "sig-1",
+        "name": "Bumble Coffee",
+        "category": "Signature",
+        "price": 7.9,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "sig-2",
+        "name": "Tonic Espresso",
+        "category": "Signature",
+        "price": 7.5,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "sig-3",
+        "name": "Orange Raf",
+        "category": "Signature",
+        "price": 8.5,
+        "iconType": "glass",
+        "popular": true
+      },
+      {
+        "id": "sig-4",
+        "name": "Lavender Raf",
+        "category": "Signature",
+        "price": 8.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "mlk-1",
+        "name": "Chocolate Milkshake",
+        "category": "Milkshake",
+        "price": 6.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "mlk-2",
+        "name": "Vanilla Milkshake",
+        "category": "Milkshake",
+        "price": 6.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "mlk-3",
+        "name": "Strawberry Milkshake",
+        "category": "Milkshake",
+        "price": 6.9,
+        "iconType": "milk",
+        "popular": false
+      },
+      {
+        "id": "mlk-4",
+        "name": "Oreo Milkshake",
+        "category": "Milkshake",
+        "price": 7.5,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "oth-1",
+        "name": "Fresh Orange Juice",
+        "category": "Other Drinks",
+        "price": 5.5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "oth-2",
+        "name": "Lemonade Classic",
+        "category": "Other Drinks",
+        "price": 5,
+        "iconType": "soda",
+        "popular": true
+      },
+      {
+        "id": "oth-3",
+        "name": "Berry Lemonade",
+        "category": "Other Drinks",
+        "price": 5.5,
+        "iconType": "soda",
+        "popular": false
+      },
+      {
+        "id": "oth-4",
+        "name": "Mineral Water (Still)",
+        "category": "Other Drinks",
+        "price": 2,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "oth-5",
+        "name": "Sparkling Water (San Pellegrino)",
+        "category": "Other Drinks",
+        "price": 3.5,
+        "iconType": "glass",
+        "popular": false
+      },
+      {
+        "id": "ext-1",
+        "name": "Extra Espresso Shot",
+        "category": "Extras",
+        "price": 2,
+        "iconType": "coffee",
+        "popular": true
+      },
+      {
+        "id": "ext-2",
+        "name": "Alternative Milk (Oat / Almond)",
+        "category": "Extras",
+        "price": 2.9,
+        "iconType": "milk",
+        "popular": true
+      },
+      {
+        "id": "ext-3",
+        "name": "Syrup Pump (Vanilla / Caramel / Hazelnut)",
+        "category": "Extras",
+        "price": 1.5,
+        "iconType": "flame",
+        "popular": true
+      },
+      {
+        "id": "ext-4",
+        "name": "Whipped Cream",
+        "category": "Extras",
+        "price": 1.5,
+        "iconType": "cake",
+        "popular": false
+      }
+    ],
+    "categories": [
+      {
+        "id": "cat-all",
+        "name": "Hamısı",
+        "iconType": "sparkles"
+      },
+      {
+        "id": "cat-classics",
+        "name": "Classics",
+        "iconType": "coffee"
+      },
+      {
+        "id": "cat-brew",
+        "name": "Brew Bar",
+        "iconType": "glass"
+      },
+      {
+        "id": "cat-flavored",
+        "name": "Flavored",
+        "iconType": "flame"
+      },
+      {
+        "id": "cat-chocolate",
+        "name": "Chocolate",
+        "iconType": "milk"
+      },
+      {
+        "id": "cat-tea",
+        "name": "Tea",
+        "iconType": "tea"
+      },
+      {
+        "id": "cat-cold",
+        "name": "Cold Coffees",
+        "iconType": "soda"
+      },
+      {
+        "id": "cat-frapbee",
+        "name": "Frapbee®",
+        "iconType": "soda"
+      },
+      {
+        "id": "cat-signature",
+        "name": "Signature",
+        "iconType": "glass"
+      },
+      {
+        "id": "cat-milkshake",
+        "name": "Milkshake",
+        "iconType": "milk"
+      },
+      {
+        "id": "cat-drinks",
+        "name": "Other Drinks",
+        "iconType": "soda"
+      },
+      {
+        "id": "cat-extras",
+        "name": "Extras",
+        "iconType": "package"
+      }
+    ],
+    "orders": [],
+    "settings": {
+      "storeName": "ALIDAY COFFEE HOUSE",
+      "address": "Səid Rüstəmov 17C, Bakı, Azərbaycan",
+      "phone": "+994 (12) 598-00-00",
+      "receiptFooter": "Bizi seçdiyiniz üçün təşəkkür edirik! ☕",
+      "serviceChargePercent": 12,
+      "taxPercent": 0,
+      "printerPaperSize": "80mm"
+    }
+  }
+}
